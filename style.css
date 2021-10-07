@@ -1,0 +1,44 @@
+html{
+  font-size: 28px
+}
+
+body{
+  border: 5px solid Black;
+  padding: 15px;
+  margins: 15px;
+}
+
+.primarycolor{
+  border: 3px solid Red:
+}
+
+.secondarycolor {
+  border: 3px solid Green;
+  font-size: 3rem;
+}
+
+.input-color .colorbox4 {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background-color: #ccc;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.input-color .colorbox5 {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.picture{
+  margin-bottom: 10vw;
+  padding-right: 10vw;
+  padding-left: 10vw;
+}
